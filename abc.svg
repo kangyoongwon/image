@@ -1,0 +1,35 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- 지붕 -->
+  <path d="M3 10L12 3L21 10L19.5 10L12 4.2L4.5 10H3Z" stroke="black" stroke-width="0.8" stroke-linejoin="round"></path>
+
+  <!-- 지붕과 몸체 구분선 -->
+  <line x1="5" y1="10" x2="19" y2="10" stroke="black" stroke-width="0.8" stroke-linecap="round"></line>
+
+  <!-- 집 몸체 -->
+  <path d="M5 10V20H14.5" stroke="black" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- 오른쪽 벽 -->
+  <path d="M19 10V14" stroke="black" stroke-width="0.8" stroke-linecap="round"></path>
+
+  <!-- 문 -->
+  <path d="M7.5 20V14H10.5V20" stroke="black" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- 문고리 -->
+  <circle cx="9.7" cy="17" r="0.3" fill="black"></circle>
+
+  <!-- 창문 -->
+  <rect x="12.5" y="12" width="3" height="3" stroke="black" stroke-width="0.8" stroke-linejoin="round"></rect>
+
+  <!-- 창문 십자 -->
+  <line x1="14" y1="12" x2="14" y2="15" stroke="black" stroke-width="0.8"></line>
+
+  <line x1="12.5" y1="13.5" x2="15.5" y2="13.5" stroke="black" stroke-width="0.8"></line>
+
+  <!-- 우측 화살표 (아래로 이동) -->
+  <path d="M16 16H20M20 16L18.6 14.6M20 16L18.6 17.4" stroke="black" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+
+  <!-- 좌측 화살표 (아래로 이동) -->
+  <path d="M18.5 19H14.5M14.5 19L15.9 17.6M14.5 19L15.9 20.4" stroke="black" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"></path>
+
+</svg>
